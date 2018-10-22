@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2018-10-22T04:31:31" hostname="deones-air.3520.dhcp.asu.edu" time="0.034">
+  <properties/>
+  <testcase name="heapSortOneInput" classname="test.java.AlgoTest" time="0.006"/>
+  <testcase name="mergeSortThrowsException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="selectionSortOneInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="insertionSortOneInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="selectionSortThrowsException" classname="test.java.AlgoTest" time="0.002"/>
+  <testcase name="quickSortThrowsException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="quickSortIfKeyFailsForSortedItems" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="heapSortIfKeyFailsForSortedItems" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="heapSortTest" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="quickSortTest" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="bubbleSortOneInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="mergeSortOneInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="selectionSortIfKeyFailsForSortedItems" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="mergeSortIfKeyFailsForSortedItems" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="heapSortThrowsException" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="bubbleSortThrowsException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="insertionSortThrowsException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="selectionSortTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="mergeSortTest" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="quickSortOneInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="insertionSortTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="bubbleSortIfKeyFailsForSortedItems" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="bubbleSortTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="insertionSortIfKeyFailsForSortedItems" classname="test.java.AlgoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
